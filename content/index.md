@@ -11,3 +11,8 @@ dadad
 
 
 testing the push command thing ufckkkkkkkkk taking frever 
+
+
+
+
+testing how fast it pulls from github (cloudflae)
