@@ -8,8 +8,8 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Kiran",
-    displayPicture: "",
+    pageTitle: "Kiran Raj",
+
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -24,8 +24,9 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
+        
+        header: "Cairo Play",
+        body: "JetBrains Mono",
         code: "IBM Plex Mono",
       },
       colors: {

@@ -1,18 +1,17 @@
 ---
-title: Welcome to Quartzd
+title: What is this page about?
 ---
 
-This is a blank Quartz installation.dddfuck
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
-
-
-dadad
-
-
-
-testing the push command thing ufckkkkkkkkk taking frever 
+This [[Digital Garden]] I use to document my experiences, philosophies and things that interest me in the hope that you'll find it interesting or useful. 
 
 
 
 
-testing how fast it pulls from github (cloudflae)
+
+
+
+
+
+![[displaypicture.jpg|200]]
+
+
